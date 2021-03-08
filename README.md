@@ -7,6 +7,9 @@ I'm working a lot with CodeIgniter 4, bootstrap and MySQL, so I needed a library
 - Create a bootstrap form taking into account the specifics of each field
 
 ## Preparing (installing)
+
+Minimum requirements: PHP 7.2, MySQL 5.*, apache
+
 Open the file **app/Libraries/DBtools.php**, and uncomment the lines conaining the user, password, and database name, after filling them in with your info.
 
 ```sh
